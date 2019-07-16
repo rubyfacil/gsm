@@ -1,0 +1,763 @@
+{
+    "data": [
+        {
+            "RecID": "944f263e407a0de22f212f4af6b29759858a5eedbd",
+            "CreatedDateTime": "10\/07\/2019 8:03:37 AM",
+            "EmailSubject": "Permissions issues with accessing Staff H drive",
+            "EmailBody": "",
+            "DashboardTitle": "Staff H drive folders",
+            "AnnounceStatus": "Resolved",
+            "StartDate": "10\/07\/2019 8:03:37 AM",
+            "EndDateTime": "",
+            "PublishToOutage": "True",
+            "journals": [
+                {
+                    "RecID": "944f43bca8fbcd23ae64cc47dbac80423b401f8331",
+                    "ParentRecID": "944f263e407a0de22f212f4af6b29759858a5eedbd",
+                    "CreatedDateTime": "12\/07\/2019 1:45:08 PM",
+                    "DashboardTitle": "Staff H drive folders",
+                    "DashboardBody": "Permissions issues with accessing Staff H drive",
+                    "EmailSubject": "Permissions issues with accessing Staff H drive",
+                    "EmailBody": "",
+                    "Details": "At 8:30pm 11\/07 all affected Nathan H:\\ drive users permissions were recovered and access to their H:\\ drive folders was re-established. H:\\ drive access for all users is now restored."
+                },
+                {
+                    "RecID": "944f346e7c8077f4a60e9f47d9bda7bf8504a4ae99",
+                    "ParentRecID": "944f263e407a0de22f212f4af6b29759858a5eedbd",
+                    "CreatedDateTime": "11\/07\/2019 9:53:22 AM",
+                    "DashboardTitle": "Staff H drive folders",
+                    "DashboardBody": "Permissions issues with accessing Staff H drive",
+                    "EmailSubject": "Permissions issues with accessing Staff H drive",
+                    "EmailBody": "",
+                    "Details": "At 9:30am 11\/07 all Gold Coast H:\\ drive users should now have access to their H:\\ drive folder. It may require the user to log off and back on for the access to be re-established. Some Nathan users will still be unable to access their H:\\ drive and this is being worked on as a priority."
+                },
+                {
+                    "RecID": "944f2a6581b5de473a9eb045d79f89daf16c562977",
+                    "ParentRecID": "944f263e407a0de22f212f4af6b29759858a5eedbd",
+                    "CreatedDateTime": "10\/07\/2019 3:37:16 PM",
+                    "DashboardTitle": "Staff H drive folders",
+                    "DashboardBody": "Permissions issues with accessing Staff H drive",
+                    "EmailSubject": "Permissions issues with accessing Staff H drive",
+                    "EmailBody": "",
+                    "Details": "Folder\/file permissions are still in the process of being re-applied to user H:\\ drives."
+                },
+                {
+                    "RecID": "944f27a50c9eed9fba6c1c4e6e8c642641c30c0ff9",
+                    "ParentRecID": "944f263e407a0de22f212f4af6b29759858a5eedbd",
+                    "CreatedDateTime": "10\/07\/2019 10:36:42 AM",
+                    "DashboardTitle": "Staff H drive folders",
+                    "DashboardBody": "Permissions issues with accessing Staff H drive",
+                    "EmailSubject": "Permissions issues with accessing Staff H drive",
+                    "EmailBody": "",
+                    "Details": "Folder\/file permissions have been removed on all Gold Coast user H:\\ drives and some Nathan user H:\\ drives. S3 Windows server team are continuing to work on recovering access permissions to the affected H:\\ drive folders."
+                },
+                {
+                    "RecID": "944f264a1f74f49c16f2274cad9ff6259582ea91c9",
+                    "ParentRecID": "944f263e407a0de22f212f4af6b29759858a5eedbd",
+                    "CreatedDateTime": "10\/07\/2019 8:08:41 AM",
+                    "DashboardTitle": "Staff H drive folders",
+                    "DashboardBody": "Permissions issues with accessing Staff H drive",
+                    "EmailSubject": "Permissions issues with accessing Staff H drive",
+                    "EmailBody": "",
+                    "Details": "It has been reported that certain staff members are having issues with accessing to their H drive folder. At this stage, the seems it is related to the GC based folders. S3 Windows server team are working on finding the root cause and rectifying the issue."
+                }
+            ]
+        },
+        {
+            "RecID": "944f20ad3d9236152a71084b4c9dd70dd798cff15e",
+            "CreatedDateTime": "9\/07\/2019 9:55:37 PM",
+            "EmailSubject": "Qmaster production server reboot **RESOLVED**",
+            "EmailBody": "",
+            "DashboardTitle": "Qmaster Contact Center services",
+            "AnnounceStatus": "Resolved",
+            "StartDate": "7\/09\/2019 10:00:00 PM",
+            "EndDateTime": "9\/07\/2019 10:45:00 PM",
+            "PublishToOutage": "True",
+            "journals": [
+                {
+                    "RecID": "944f212055d03f2cd4fb704258820dc799fbafc81b",
+                    "ParentRecID": "944f20ad3d9236152a71084b4c9dd70dd798cff15e",
+                    "CreatedDateTime": "9\/07\/2019 10:44:43 PM",
+                    "DashboardTitle": "Qmaster Contact Center services",
+                    "DashboardBody": "Qmaster production server reboot **RESOLVED**",
+                    "EmailSubject": "Qmaster production server reboot **RESOLVED**",
+                    "EmailBody": "",
+                    "Details": "NCS successfully restarted all Qmaster production servers. Qmaster services tested and working as expected."
+                },
+                {
+                    "RecID": "944f20b9a09c88271203a14027bb509ca296db9074",
+                    "ParentRecID": "944f20ad3d9236152a71084b4c9dd70dd798cff15e",
+                    "CreatedDateTime": "9\/07\/2019 10:00:54 PM",
+                    "DashboardTitle": "Qmaster Contact Center services",
+                    "DashboardBody": "Qmaster production server reboot",
+                    "EmailSubject": "Qmaster production server reboot",
+                    "EmailBody": "",
+                    "Details": "NCS will be performing a cluster reboot of Qmaster services to rectify Symantec Enpoint client update issue."
+                }
+            ]
+        },
+        {
+            "RecID": "944f18f8e3db9c513aa9504a39a9b6e17f72d895e1",
+            "CreatedDateTime": "9\/07\/2019 7:54:05 AM",
+            "EmailSubject": "Qmaster Contact Centre Interruption **RESOLVED**",
+            "EmailBody": "",
+            "DashboardTitle": "Qmaster Service",
+            "AnnounceStatus": "Resolved",
+            "StartDate": "7\/09\/2019 7:00:00 AM",
+            "EndDateTime": "9\/07\/2019 7:45:00 AM",
+            "PublishToOutage": "True",
+            "journals": [
+                {
+                    "RecID": "944f19057a0bf3ba761d094cbaa2e1e4c25d858c54",
+                    "ParentRecID": "944f18f8e3db9c513aa9504a39a9b6e17f72d895e1",
+                    "CreatedDateTime": "9\/07\/2019 7:59:27 AM",
+                    "DashboardTitle": "Qmaster Service",
+                    "DashboardBody": "Qmaster Contact Centre Interruption **RESOLVED**",
+                    "EmailSubject": "Qmaster Contact Centre Interruption **RESOLVED**",
+                    "EmailBody": "",
+                    "Details": "Qmaster agents experienced issues logging into Qmaster contact center services.  NCS investigated issue and it has now been identified and resolved.  All Contact services tested and working correctly."
+                }
+            ]
+        },
+        {
+            "RecID": "944db86d3ac8929dcda09f4d67aa7f93ff5556a677",
+            "CreatedDateTime": "12\/06\/2019 2:06:42 PM",
+            "EmailSubject": "Turnitin performance degradation ",
+            "EmailBody": "",
+            "DashboardTitle": "Turnitin",
+            "AnnounceStatus": "In Progress",
+            "StartDate": "12\/06\/2019 2:06:42 PM",
+            "EndDateTime": "",
+            "PublishToOutage": "True",
+            "journals": [
+                {
+                    "RecID": "944db870a60bd903de34f94d319fedab7185626bd7",
+                    "ParentRecID": "944db86d3ac8929dcda09f4d67aa7f93ff5556a677",
+                    "CreatedDateTime": "12\/06\/2019 2:08:10 PM",
+                    "DashboardTitle": "Turnitin",
+                    "DashboardBody": "Turnitin performance degradation ",
+                    "EmailSubject": "Turnitin performance degradation ",
+                    "EmailBody": "",
+                    "Details": "Hi all  We are currently experiencing an issue with Feedback Studio Access in Turnitin. The Vendors engineers are actively investigating the incident.  We apologise for any inconvenience this may cause.  Alan"
+                }
+            ]
+        },
+        {
+            "RecID": "944da9cb0911b599ba69094e74ae6ed494e075ce8d",
+            "CreatedDateTime": "11\/06\/2019 11:28:20 AM",
+            "EmailSubject": "Test 4 (Email subject)",
+            "EmailBody": "No Messages",
+            "DashboardTitle": "Griffith Service Manager",
+            "AnnounceStatus": "In Progress",
+            "StartDate": "11\/06\/2019 11:28:20 AM",
+            "EndDateTime": "23\/06\/2019 12:00:00 AM",
+            "PublishToOutage": "True",
+            "journals": []
+        },
+        {
+            "RecID": "944d9cb99bd4d269483900434eb7c13a26a53db8ea",
+            "CreatedDateTime": "10\/06\/2019 11:40:57 AM",
+            "EmailSubject": "N53 Access Switch Network Maintenance",
+            "EmailBody": "",
+            "DashboardTitle": "Network Access in N53",
+            "AnnounceStatus": "Resolved",
+            "StartDate": "29\/06\/2019 5:00:00 PM",
+            "EndDateTime": "29\/06\/2019 9:00:00 PM",
+            "PublishToOutage": "True",
+            "journals": [
+                {
+                    "RecID": "944e9c8ea1a48328c9b50a4ba7837c7432e9ef49a6",
+                    "ParentRecID": "944d9cb99bd4d269483900434eb7c13a26a53db8ea",
+                    "CreatedDateTime": "29\/06\/2019 9:24:38 PM",
+                    "DashboardTitle": "Network Access in N53",
+                    "DashboardBody": "N53 Access Switch Network Maintenance",
+                    "EmailSubject": "N53 Access Switch Network Maintenance",
+                    "EmailBody": "",
+                    "Details": "Scheduled network maintenance is complete for N53 LibraryLevel 0 offices East.  This concludes the network security upgrade project for the entire N53 wired network and the University in general. Thank you for your patience."
+                },
+                {
+                    "RecID": "944e99664a29433ffb65a44969bd0f86fa977f2f47",
+                    "ParentRecID": "944d9cb99bd4d269483900434eb7c13a26a53db8ea",
+                    "CreatedDateTime": "29\/06\/2019 3:39:45 PM",
+                    "DashboardTitle": "Network Access in N53",
+                    "DashboardBody": "N53 Access Switch Network Maintenance",
+                    "EmailSubject": "N53 Access Switch Network Maintenance",
+                    "EmailBody": "",
+                    "Details": "To remain compliant with Griffith's network security policies, the Network and Collaboration Services team will upgrade N53 network access switches servicing N53 Level 0 offices East (e.g. 0.05 and 0.03) and switchboard on Sat 29th June 5-9pm. During this time network access may be interrupted for up to 15 minutes. Any interruption may affect wired and wireless network connections, IP phones, AV\/Video and Building Management connectivity in these locations. Network access for wired staff computers on all levels of N53 will experience downtime of up to 1hr for additional maintenance required to integrate the staff network into the upgraded security infrastructure."
+                },
+                {
+                    "RecID": "944e3f350b1cdd182d525746ff9cd7f635d6282329",
+                    "ParentRecID": "944d9cb99bd4d269483900434eb7c13a26a53db8ea",
+                    "CreatedDateTime": "22\/06\/2019 7:28:20 PM",
+                    "DashboardTitle": "Network Access in N53",
+                    "DashboardBody": "N53 Access Switch Network Maintenance",
+                    "EmailSubject": "N53 Access Switch Network Maintenance",
+                    "EmailBody": "",
+                    "Details": "Scheduled network maintenance is complete for N53 LibraryLevel 0 offices West (e.g. 0.45 and 0.36)."
+                },
+                {
+                    "RecID": "944e3db27a5f99b5acf5d44268a3b5db049772364c",
+                    "ParentRecID": "944d9cb99bd4d269483900434eb7c13a26a53db8ea",
+                    "CreatedDateTime": "22\/06\/2019 4:43:24 PM",
+                    "DashboardTitle": "Network Access in N53",
+                    "DashboardBody": "N53 Access Switch Network Maintenance",
+                    "EmailSubject": "N53 Access Switch Network Maintenance",
+                    "EmailBody": "",
+                    "Details": "To remain compliant with Griffith's network security policies, the Network and Collaboration Services team will upgrade N53 network access switches on the following dates.During this time network access in the specified locations may be interrupted for up to 15 minutes. Any interruption may affect wired and wireless network connections, IP phones, AV\/Video and Building Management connectivity in these locations. Sat 22nd June 5-9pm: LibraryLevel 0 offices West (e.g. 0.45 and 0.36). Sat 29th June 5-8pm: LibraryLevel 0 offices East (e.g. 0.05 and 0.03) and switchboard."
+                },
+                {
+                    "RecID": "944e326228fffc71fcb7c240b7969a695a76d1447c",
+                    "ParentRecID": "944d9cb99bd4d269483900434eb7c13a26a53db8ea",
+                    "CreatedDateTime": "21\/06\/2019 8:07:38 PM",
+                    "DashboardTitle": "Network Access in N53",
+                    "DashboardBody": "N53 Access Switch Network Maintenance",
+                    "EmailSubject": "N53 Access Switch Network Maintenance",
+                    "EmailBody": "",
+                    "Details": "Scheduled network maintenance is complete and all network access in N53 library main building level 1 is restored."
+                },
+                {
+                    "RecID": "944e30bd66e8735bd82f4947aaba4e26db3c61237a",
+                    "ParentRecID": "944d9cb99bd4d269483900434eb7c13a26a53db8ea",
+                    "CreatedDateTime": "21\/06\/2019 5:08:07 PM",
+                    "DashboardTitle": "Network Access in N53",
+                    "DashboardBody": "N53 Access Switch Network Maintenance",
+                    "EmailSubject": "N53 Access Switch Network Maintenance",
+                    "EmailBody": "",
+                    "Details": "To remain compliant with Griffith's network security policies, the Network and Collaboration Services team will upgrade N53 network access switches on the following dates.During this time network access in the specified locations may be interrupted for up to 15 minutes. Any interruption may affect wired and wireless network connections, IP phones, AV\/Video and Building Management connectivity in these locations. Fri 21st June 5-9pm:  Library level 1 - study zones, offices and service desks. Sat 22nd June 5-9pm: LibraryLevel 0 offices West (e.g. 0.45 and 0.36). Sat 29th June 5-8pm: LibraryLevel 0 offices East (e.g. 0.05 and 0.03) and switchboard."
+                },
+                {
+                    "RecID": "944e231cf3c76da011248d48c5bc480b5fee901925",
+                    "ParentRecID": "944d9cb99bd4d269483900434eb7c13a26a53db8ea",
+                    "CreatedDateTime": "20\/06\/2019 4:19:42 PM",
+                    "DashboardTitle": "Network Access in N53",
+                    "DashboardBody": "N53 Access Switch Network Maintenance",
+                    "EmailSubject": "N53 Access Switch Network Maintenance",
+                    "EmailBody": "",
+                    "Details": "To remain compliant with Griffith's network security policies, the Network and Collaboration Services team will upgrade N53 network access switches on the following dates.During this time network access in the specified locations may be interrupted for up to 15 minutes. Any interruption may affect wired and wireless network connections, IP phones, AV\/Video and Building Management connectivity in these locations. Fri 21st June 5-9pm:  Library level 1 - study zones, offices and service desks. Sat 22nd June 5-9pm: LibraryLevel 0 offices West (e.g. 0.45 and 0.36). Sat 29th June 5-8pm: LibraryLevel 0 offices East (e.g. 0.05 and 0.03) and switchboard."
+                },
+                {
+                    "RecID": "944df087592006ae5e4886468fb5f78ea6fc24bc45",
+                    "ParentRecID": "944d9cb99bd4d269483900434eb7c13a26a53db8ea",
+                    "CreatedDateTime": "16\/06\/2019 8:14:32 PM",
+                    "DashboardTitle": "Network Access in N53",
+                    "DashboardBody": "N53 Access Switch Network Maintenance",
+                    "EmailSubject": "N53 Access Switch Network Maintenance",
+                    "EmailBody": "",
+                    "Details": "Scheduled network maintenance is complete and all network access in N53 library main building level 2 is restored."
+                },
+                {
+                    "RecID": "944deef9b9207084abaf9d41cfb035b99635a6e4b0",
+                    "ParentRecID": "944d9cb99bd4d269483900434eb7c13a26a53db8ea",
+                    "CreatedDateTime": "16\/06\/2019 5:24:53 PM",
+                    "DashboardTitle": "Network Access in N53",
+                    "DashboardBody": "N53 Access Switch Network Maintenance",
+                    "EmailSubject": "N53 Access Switch Network Maintenance",
+                    "EmailBody": "",
+                    "Details": "To remain compliant with Griffith's network security policies, the Network and Collaboration Services team will upgrade N53 network access switches on the following dates.During this time network access in the specified locations may be interrupted for up to 15 minutes. Any interruption may affect wired and wireless network connections, IP phones, AV\/Video and Building Management connectivity in these locations. Sun 16th June 5-8pm: Library level 2 - study zones and offices. Fri 21st June 5-9pm:  Library level 1 - study zones, offices and service desks. Sat 22nd June 5-9pm: LibraryLevel 0 offices West (e.g. 0.45 and 0.36). Sat 29th June 5-8pm: LibraryLevel 0 offices East (e.g. 0.05 and 0.03) and switchboard."
+                },
+                {
+                    "RecID": "944de489338632c718701c443d854a7f6529b8e7b6",
+                    "ParentRecID": "944d9cb99bd4d269483900434eb7c13a26a53db8ea",
+                    "CreatedDateTime": "15\/06\/2019 10:24:37 PM",
+                    "DashboardTitle": "Network Access in N53",
+                    "DashboardBody": "N53 Access Switch Network Maintenance",
+                    "EmailSubject": "N53 Access Switch Network Maintenance",
+                    "EmailBody": "",
+                    "Details": "Scheduled network maintenance is complete and all network access in N53 library extension is restored."
+                },
+                {
+                    "RecID": "944de16ca772fd2f8af77e44d9a1832ce674171755",
+                    "ParentRecID": "944d9cb99bd4d269483900434eb7c13a26a53db8ea",
+                    "CreatedDateTime": "15\/06\/2019 4:44:45 PM",
+                    "DashboardTitle": "Network Access in N53",
+                    "DashboardBody": "N53 Access Switch Network Maintenance",
+                    "EmailSubject": "N53 Access Switch Network Maintenance",
+                    "EmailBody": "",
+                    "Details": "To remain compliant with Griffith's network security policies, the Network and Collaboration Services team will upgrade N53 network access switches on the following dates.During this time network access in the specified locations may be interrupted for up to 15 minutes. Any interruption may affect wired and wireless network connections, IP phones, AV\/Video and Building Management connectivity in these locations. Sat 15th June 5-8pm: Library extension all levels - seminar rooms, offices andstudy zones. Sun 16th June 5-8pm: Library level 2 - study zones and offices. Fri 21st June 5-9pm:  Library level 1 - study zones, offices and service desks. Sat 22nd June 5-9pm: LibraryLevel 0 offices West (e.g. 0.45 and 0.36). Sat 29th June 5-8pm: LibraryLevel 0 offices East (e.g. 0.05 and 0.03) and switchboard."
+                },
+                {
+                    "RecID": "944d9ccb2c6487eb8d4e4e4e9ca88757779ce05489",
+                    "ParentRecID": "944d9cb99bd4d269483900434eb7c13a26a53db8ea",
+                    "CreatedDateTime": "10\/06\/2019 11:48:26 AM",
+                    "DashboardTitle": "Network Access in N53",
+                    "DashboardBody": "N53 Access Switch Network Maintenance",
+                    "EmailSubject": "N53 Access Switch Network Maintenance",
+                    "EmailBody": "",
+                    "Details": "To remain compliant with Griffith's network security policies, the Network and Collaboration Services team will upgrade N53 network access switches on the following dates.During this time network access in the specified locations may be interrupted for up to 15 minutes. Any interruption may affect wired and wireless network connections, IP phones, AV\/Video and Building Management connectivity in these locations. Sat 15th June 5-8pm: Library extension all levels - seminar rooms, offices andstudy zones. Sun 16th June 5-8pm: Library level 2 - study zones and offices. Fri 21st June 5-9pm:  Library level 1 - study zones, offices and service desks. Sat 22nd June 5-9pm: LibraryLevel 0 offices West (e.g. 0.45 and 0.36). Sat 29th June 5-8pm: LibraryLevel 0 offices East (e.g. 0.05 and 0.03) and switchboard."
+                }
+            ]
+        },
+        {
+            "RecID": "944d9bce8dcf8af2b9c796406fb516331352eb63c7",
+            "CreatedDateTime": "10\/06\/2019 10:00:39 AM",
+            "EmailSubject": "Library database - Emerald",
+            "EmailBody": "",
+            "DashboardTitle": "Library",
+            "AnnounceStatus": "In Progress",
+            "StartDate": "10\/06\/2019 10:00:39 AM",
+            "EndDateTime": "30\/06\/2019 12:00:00 AM",
+            "PublishToOutage": "True",
+            "journals": [
+                {
+                    "RecID": "944d9bd1395a08c6e5889240948ae58ae28994ae2e",
+                    "ParentRecID": "944d9bce8dcf8af2b9c796406fb516331352eb63c7",
+                    "CreatedDateTime": "10\/06\/2019 10:01:48 AM",
+                    "DashboardTitle": "Library",
+                    "DashboardBody": "Library database - Emerald",
+                    "EmailSubject": "Library database - Emerald",
+                    "EmailBody": "",
+                    "Details": "The Emerald Platform will be upgraded on 30th June. Please note that Emerald will not be migrating any profile changes made on emeraldinsight.com after Sunday 9 June 2019 and you will not receive any alerts after Tuesday 18 June 2019 until the functionality is enabled on the new platform"
+                }
+            ]
+        },
+        {
+            "RecID": "944d59989e1366caa0085e469d8d6c21c285189926",
+            "CreatedDateTime": "5\/06\/2019 9:28:41 AM",
+            "EmailSubject": "Testing DS outage page",
+            "EmailBody": "Testing DS outage page, please disregard this message.",
+            "DashboardTitle": "GSM",
+            "AnnounceStatus": "Resolved",
+            "StartDate": "14\/06\/2019 12:00:00 AM",
+            "EndDateTime": "17\/06\/2019 12:00:00 AM",
+            "PublishToOutage": "True",
+            "journals": []
+        },
+        {
+            "RecID": "944beaa7c49c39c87553204ffaa859c6cfddca2380",
+            "CreatedDateTime": "8\/05\/2019 1:28:58 PM",
+            "EmailSubject": "Multifactor Authentication (MFA) Service Issues",
+            "EmailBody": "",
+            "DashboardTitle": "Multifactor Authentication (MFA) Service Issues",
+            "AnnounceStatus": "In Progress",
+            "StartDate": "5\/08\/2019 10:30:00 PM",
+            "EndDateTime": "",
+            "PublishToOutage": "True",
+            "journals": [
+                {
+                    "RecID": "944beaaf20625ec6fa4350437a915dd5fdf911b06e",
+                    "ParentRecID": "944beaa7c49c39c87553204ffaa859c6cfddca2380",
+                    "CreatedDateTime": "8\/05\/2019 1:32:06 PM",
+                    "DashboardTitle": "Multifactor Authentication (MFA) Service Issues",
+                    "DashboardBody": "Multifactor Authentication (MFA) Service Issues",
+                    "EmailSubject": "Multifactor Authentication (MFA) Service Issues",
+                    "EmailBody": "",
+                    "Details": "The MFA service has been experiencing intermittent issues and has been disabled. Staff in Digital Services will not be prompted for MFA authentication until the issue has been rectified"
+                }
+            ]
+        },
+        {
+            "RecID": "944bc5e454354e14ee56ea4433869e752fad8d322d",
+            "CreatedDateTime": "5\/05\/2019 6:33:25 PM",
+            "EmailSubject": "Network Maintenance - Routing Changes and Network Optimisation",
+            "EmailBody": "All work has finished and core network changes have been rolled back due to software issues. NCS will work with the vendors to resolve the outstanding issues.",
+            "DashboardTitle": "Internet and private links for all campuses",
+            "AnnounceStatus": "Resolved",
+            "StartDate": "5\/05\/2019 6:00:00 PM",
+            "EndDateTime": "5\/05\/2019 11:50:00 PM",
+            "PublishToOutage": "True",
+            "journals": [
+                {
+                    "RecID": "944bc5f4cb6d7aab656a164e9bb4f3b20351eccd05",
+                    "ParentRecID": "944bc5e454354e14ee56ea4433869e752fad8d322d",
+                    "CreatedDateTime": "5\/05\/2019 6:40:26 PM",
+                    "DashboardTitle": "Internet and private links for all campuses",
+                    "DashboardBody": "Network Maintenance - Routing Changes and Network Optimisation",
+                    "EmailSubject": "Network Maintenance - Routing Changes and Network Optimisation",
+                    "EmailBody": "",
+                    "Details": "Work is beginning for RFC 26253 'Routing Changes and Network Optimisation'. Some minor outages are expected from 7pm onwards."
+                }
+            ]
+        },
+        {
+            "RecID": "944ba68e30c255761a965f48d7ab6a4652f88e6055",
+            "CreatedDateTime": "3\/05\/2019 9:30:38 AM",
+            "EmailSubject": "CareerHub is down",
+            "EmailBody": "",
+            "DashboardTitle": "CareerHub web site",
+            "AnnounceStatus": "In Progress",
+            "StartDate": "3\/05\/2019 9:30:38 AM",
+            "EndDateTime": "",
+            "PublishToOutage": "True",
+            "journals": [
+                {
+                    "RecID": "944ba69049eb4a910ba8164b4bb1161009e9b34ef9",
+                    "ParentRecID": "944ba68e30c255761a965f48d7ab6a4652f88e6055",
+                    "CreatedDateTime": "3\/05\/2019 9:31:32 AM",
+                    "DashboardTitle": "CareerHub web site",
+                    "DashboardBody": "CareerHub is down",
+                    "EmailSubject": "CareerHub is down",
+                    "EmailBody": "",
+                    "Details": "Career Hub student console web site is down, https:\/\/www115.secure.griffith.edu.au\/careerboard\/  S3 Windows team are investigating the root cause. More status update will be provided."
+                }
+            ]
+        },
+        {
+            "RecID": "944914901ce9730556cebe46ab8b49c3b520430903",
+            "CreatedDateTime": "14\/03\/2019 11:40:18 AM",
+            "EmailSubject": "PebblePad, Atlas and VoiceThread links not working in L@G",
+            "EmailBody": "",
+            "DashboardTitle": "L@G",
+            "AnnounceStatus": "In Progress",
+            "StartDate": "14\/03\/2019 11:40:18 AM",
+            "EndDateTime": "",
+            "PublishToOutage": "True",
+            "journals": [
+                {
+                    "RecID": "944914991fda8724efbd4a453d8fbc32117019bdf9",
+                    "ParentRecID": "944914901ce9730556cebe46ab8b49c3b520430903",
+                    "CreatedDateTime": "14\/03\/2019 11:44:09 AM",
+                    "DashboardTitle": "L@G",
+                    "DashboardBody": "PebblePad, Atlas and VoiceThread links not working in L@G",
+                    "EmailSubject": "PebblePad, Atlas and VoiceThread links not working in L@G",
+                    "EmailBody": "",
+                    "Details": "There is a re-occurrence of the issue which has broken all PebblePad, Atlas and VoiceThread links within L@G courses. We are working with Blackboard to have this issue fixed ASAP."
+                }
+            ]
+        },
+        {
+            "RecID": "9448f7d6b9016a25794394418cac019f554d51b961",
+            "CreatedDateTime": "12\/03\/2019 7:22:52 AM",
+            "EmailSubject": "Echo360 service - 119 out of 147 venue recording boxes have lost access to the external Echo360 cloud service",
+            "EmailBody": "",
+            "DashboardTitle": "Lecture Capture",
+            "AnnounceStatus": "In Progress",
+            "StartDate": "3\/02\/2021 2:00:00 PM",
+            "EndDateTime": "",
+            "PublishToOutage": "True",
+            "journals": [
+                {
+                    "RecID": "9448f7efde4e4c0f5954924d72bfbf83642b67ec0a",
+                    "ParentRecID": "9448f7d6b9016a25794394418cac019f554d51b961",
+                    "CreatedDateTime": "12\/03\/2019 7:33:35 AM",
+                    "DashboardTitle": "Lecture Capture",
+                    "DashboardBody": "Echo360 service - 119 out of 147 venue recording boxes have lost access to the external Echo360 clou",
+                    "EmailSubject": "Echo360 service - 119 out of 147 venue recording boxes have lost access to the external Echo360 cloud service",
+                    "EmailBody": "",
+                    "Details": "119 out of 147 venue recording boxes have lost access to the external Echo360 cloud service.  A number of recording have failed to upload from late yesterday afternoon.  Without Internet access these recordings will not be published, however they will be retained on the local storage and uploaded when the link is restored.  Any future schedules are cached on the venue hardware and recording should go ahead in offline mode.  L&TS Support are working with NCS to investigate the issue."
+                }
+            ]
+        },
+        {
+            "RecID": "94475344068206920f34474215a185a85074ebaa19",
+            "CreatedDateTime": "8\/02\/2019 9:45:04 AM",
+            "EmailSubject": "Access Switch Network Maintenance",
+            "EmailBody": "To remain compliant with Griffiths network security policies, the Network and Collaboration Services team plan to update the access switch configuration in building N56 on Sat 16th Feb 7pm-10pm. These updates should not disrupt services, however in the unlikely event a disruption is required, it will be restricted to a maximum of 15 minutes during the upgrade period. Any outage may effect wired and wireless network connections, IP phones, AV\/Video and Building Management connectivity in N56.",
+            "DashboardTitle": " Network Access in N56",
+            "AnnounceStatus": "New",
+            "StartDate": "16\/02\/2019 6:00:00 PM",
+            "EndDateTime": "16\/02\/2019 9:00:00 PM",
+            "PublishToOutage": "True",
+            "journals": []
+        },
+        {
+            "RecID": "9446989308d7946cc13303428185c2cf36b2644a4a",
+            "CreatedDateTime": "25\/01\/2019 5:53:24 AM",
+            "EmailSubject": "Network issues under investigation",
+            "EmailBody": "NCS have fixed the root cause and all ports have now been recovered. If you have any further issues please let us know. Message 2#NCS have fixed the root cause and are working through the network recovering the ports that are not working. To recover the port simply restart your PC or phone. A phone will restart if disconnected and reconnected to the port. Message1#NCS are investigating a wide spread network port outage. no ETR at this stage until the root cause is found.",
+            "DashboardTitle": "Some network ports at all campus",
+            "AnnounceStatus": "Resolved",
+            "StartDate": "25\/01\/2019 5:53:24 AM",
+            "EndDateTime": "25\/01\/2019 8:15:00 AM",
+            "PublishToOutage": "True",
+            "journals": [
+                {
+                    "RecID": "94469a833ccfe9e55056964a588f0875f99e59d803",
+                    "ParentRecID": "9446989308d7946cc13303428185c2cf36b2644a4a",
+                    "CreatedDateTime": "25\/01\/2019 9:25:06 AM",
+                    "DashboardTitle": "Some network ports at all campus",
+                    "DashboardBody": "Network issues under investigation",
+                    "EmailSubject": "Network issues under investigation",
+                    "EmailBody": "",
+                    "Details": "NCS have fixed the root cause and all ports have now been recovered. If you have any further issues please let us know. Message 2#NCS have fixed the root cause and are working through the network recovering the ports that are not working. To recover the port simply restart your PC or phone. A phone will restart if disconnected and reconnected to the port. Message1#NCS are investigating a wide spread network port outage. no ETR at this stage until the root cause is found."
+                },
+                {
+                    "RecID": "944699819ef4b85f28fff549498eaf98c1c0853cd2",
+                    "ParentRecID": "9446989308d7946cc13303428185c2cf36b2644a4a",
+                    "CreatedDateTime": "25\/01\/2019 7:35:11 AM",
+                    "DashboardTitle": "Some network ports at all campus",
+                    "DashboardBody": "Network issues under investigation",
+                    "EmailSubject": "Network issues under investigation",
+                    "EmailBody": "",
+                    "Details": "NCS have fixed the root cause and are working through the network recovering the ports that are not working. To recover the port simply restart your PC or phone. A phone will restart if disconnected and reconnected to the port. Message1#NCS are investigating a wide spread network port outage. no ETR at this stage until the root cause is found."
+                },
+                {
+                    "RecID": "94469897834f5c127030744eea86248c39bfc8ac1b",
+                    "ParentRecID": "9446989308d7946cc13303428185c2cf36b2644a4a",
+                    "CreatedDateTime": "25\/01\/2019 5:55:18 AM",
+                    "DashboardTitle": "Some network ports at all campus",
+                    "DashboardBody": "Network issues under investigation",
+                    "EmailSubject": "Network issues under investigation",
+                    "EmailBody": "",
+                    "Details": "NCS are investigating a wide spread network port outage. no ETR at this stage until the root cause is found."
+                }
+            ]
+        },
+        {
+            "RecID": "94468827e35475f646fb9c43b09cb9efd4a6d8260f",
+            "CreatedDateTime": "24\/01\/2019 12:00:03 AM",
+            "EmailSubject": "Apply High Density Profile on Wireless Controllers",
+            "EmailBody": "High density configuration successfully applied on Gold Coast wireless lan controllers.All wireless services are functioning normally. Due to time constraints configuration of Nathan controller was not carried out and will be scheduled on another day.",
+            "DashboardTitle": "Wireless Network",
+            "AnnounceStatus": "Resolved",
+            "StartDate": "23\/01\/2019 10:00:00 PM",
+            "EndDateTime": "23\/01\/2019 11:30:00 PM",
+            "PublishToOutage": "True",
+            "journals": [
+                {
+                    "RecID": "944688385143991833932541d79e1e764dd2631403",
+                    "ParentRecID": "94468827e35475f646fb9c43b09cb9efd4a6d8260f",
+                    "CreatedDateTime": "24\/01\/2019 12:07:04 AM",
+                    "DashboardTitle": "Wireless Network",
+                    "DashboardBody": "Apply High Density Profile on Wireless Controllers",
+                    "EmailSubject": "Apply High Density Profile on Wireless Controllers",
+                    "EmailBody": "",
+                    "Details": "High density configuration successfully applied on Gold Coast wireless lan controllers.All wireless services are functioning normally. Due to time constraints configuration of Nathan controller was not carried out and will be scheduled on another day."
+                }
+            ]
+        },
+        {
+            "RecID": "94464ac273a27071f5cb7e4c8b8b18dca103d6df6d",
+            "CreatedDateTime": "19\/01\/2019 9:13:57 AM",
+            "EmailSubject": "Network issues affecting Building Network services.",
+            "EmailBody": "NCS have recovered all network services, the only outstanding issues are with device's that need a manual power cycle to reconnect. This impacts some BMS systems.  Message2:NCS have identified the root cause of the network outages and fixed it. The NCS team are working through the entire network restoring the correct network setting to each port. We expect to have full services restored by tonight. If your port is not working reboot or 'disconnect - re-connect' the port to restore network service.  Message1:NCS are currently investigating network issues affecting wireless and possibly other staff services. Updates to follow as more information is known.",
+            "DashboardTitle": "Wireless \/ Wired",
+            "AnnounceStatus": "Resolved",
+            "StartDate": "19\/01\/2019 8:15:00 AM",
+            "EndDateTime": "19\/01\/2019 7:15:00 PM",
+            "PublishToOutage": "True",
+            "journals": [
+                {
+                    "RecID": "9446504d6b826d94aefc04439b971944c1de61733e",
+                    "ParentRecID": "94464ac273a27071f5cb7e4c8b8b18dca103d6df6d",
+                    "CreatedDateTime": "19\/01\/2019 7:19:22 PM",
+                    "DashboardTitle": "Wireless \/ Wired",
+                    "DashboardBody": "Network issues affecting Building Network services.",
+                    "EmailSubject": "Network issues affecting Building Network services.",
+                    "EmailBody": "",
+                    "Details": "NCS have recovered all network services, the only outstanding issues are with device's that need a manual power cycle to reconnect. This impacts some BMS systems.  Message2:NCS have identified the root cause of the network outages and fixed it. The NCS team are working through the entire network restoring the correct network setting to each port. We expect to have full services restored by tonight. If your port is not working reboot or 'disconnect - re-connect' the port to restore network service.  Message1:NCS are currently investigating network issues affecting wireless and possibly other staff services. Updates to follow as more information is known."
+                },
+                {
+                    "RecID": "94464ce016e0f6931c930a4cf6a6f2395dc8553a80",
+                    "ParentRecID": "94464ac273a27071f5cb7e4c8b8b18dca103d6df6d",
+                    "CreatedDateTime": "19\/01\/2019 1:05:03 PM",
+                    "DashboardTitle": "Wireless \/ Wired",
+                    "DashboardBody": "Network issues affecting wireless and possibly other devices",
+                    "EmailSubject": "Network issues affecting wireless and possibly other devices",
+                    "EmailBody": "",
+                    "Details": "NCS have identified the root cause of the network outages and fixed it. The NCS team are working through the entire network restoring the correct network setting to each port. We expect to have full services restored by tonight. If your port is not working reboot or 'disconnect - re-connect' the port to restore network service.  Message1:NCS are currently investigating network issues affecting wireless and possibly other staff services. Updates to follow as more information is known."
+                },
+                {
+                    "RecID": "94464ad2afa26f669998a4499bb9c1a4baac40038f",
+                    "ParentRecID": "94464ac273a27071f5cb7e4c8b8b18dca103d6df6d",
+                    "CreatedDateTime": "19\/01\/2019 9:20:52 AM",
+                    "DashboardTitle": "Wireless \/ Wired",
+                    "DashboardBody": "Network issues affecting wireless and possibly other devices",
+                    "EmailSubject": "Network issues affecting wireless and possibly other devices",
+                    "EmailBody": "",
+                    "Details": "NCS are currently investigating network issues affecting wireless and possibly other staff services. Updates to follow as more information is known."
+                }
+            ]
+        },
+        {
+            "RecID": "9446404238df3539ad212544b68d404dfd59aa74d3",
+            "CreatedDateTime": "18\/01\/2019 1:06:58 PM",
+            "EmailSubject": "Completed - GSM Data Centre Migration",
+            "EmailBody": "The migration of GSM to the new Data Center has been completed successfully. All services are operational and there are no issues to report.",
+            "DashboardTitle": "Griffith Service Manager (GSM)",
+            "AnnounceStatus": "Resolved",
+            "StartDate": "19\/01\/2019 1:00:00 AM",
+            "EndDateTime": "19\/01\/2019 8:00:00 AM",
+            "PublishToOutage": "True",
+            "journals": [
+                {
+                    "RecID": "94464c925e23bce996ece049ce85a90b8257e5f9d2",
+                    "ParentRecID": "9446404238df3539ad212544b68d404dfd59aa74d3",
+                    "CreatedDateTime": "19\/01\/2019 12:31:53 PM",
+                    "DashboardTitle": "Griffith Service Manager (GSM)",
+                    "DashboardBody": "Completed - GSM Data Centre Migration",
+                    "EmailSubject": "Completed - GSM Data Centre Migration",
+                    "EmailBody": "",
+                    "Details": "The migration of GSM to the new Data Center has been completed successfully. All services are operational and there are no issues to report."
+                },
+                {
+                    "RecID": "94464078c3a15ea0b5a0b7471c824ae2236c917ead",
+                    "ParentRecID": "9446404238df3539ad212544b68d404dfd59aa74d3",
+                    "CreatedDateTime": "18\/01\/2019 1:30:14 PM",
+                    "DashboardTitle": "Griffith Service Manager (GSM)",
+                    "DashboardBody": "GSM Data Centre Migration",
+                    "EmailSubject": "GSM Data Centre Migration",
+                    "EmailBody": "",
+                    "Details": "On Saturday 19 January, GSM will be migrated to a new Data Center. .  The change will take place on Saturday between 00:30am and is expected to be completed by 08:00am the same day.  During the migration, GSM and the self-service portal will not be available.  Webforms and email request for support submitted during the migration will be processed once the system comes back online.  For any questions regarding this change, please contact the Service Management Office (servicemanagementoffice@griffith.edu.au)"
+                }
+            ]
+        },
+        {
+            "RecID": "94460c2cb681d4a41f23f1473eac8d85dd504237f3",
+            "CreatedDateTime": "14\/01\/2019 2:18:00 PM",
+            "EmailSubject": "Major system outage",
+            "EmailBody": "Update from S3: All production system have been recovered  Update: S3 have identified the issue and an action plan has been started to fix the issue but no ETA Server System Support update: We are experiencing an authentication issue at the moment, ITI is investigating the issue and we don't have a resolution time frame as yet",
+            "DashboardTitle": "Widespread",
+            "AnnounceStatus": "Resolved",
+            "StartDate": "14\/01\/2019 2:18:00 PM",
+            "EndDateTime": "14\/01\/2019 6:47:00 PM",
+            "PublishToOutage": "True",
+            "journals": [
+                {
+                    "RecID": "94461917508a63ec07c8ab4953b6535eabe7baff9c",
+                    "ParentRecID": "94460c2cb681d4a41f23f1473eac8d85dd504237f3",
+                    "CreatedDateTime": "15\/01\/2019 1:48:49 PM",
+                    "DashboardTitle": "Widespread",
+                    "DashboardBody": "Major system outage",
+                    "EmailSubject": "Major system outage",
+                    "EmailBody": "",
+                    "Details": "Update from S3: All production system have been recovered  Update: S3 have identified the issue and an action plan has been started to fix the issue but no ETA Server System Support update: We are experiencing an authentication issue at the moment, ITI is investigating the issue and we don't have a resolution time frame as yet"
+                },
+                {
+                    "RecID": "94460c79f7b90e5f2ca927471f82106df511522394",
+                    "ParentRecID": "94460c2cb681d4a41f23f1473eac8d85dd504237f3",
+                    "CreatedDateTime": "14\/01\/2019 2:50:58 PM",
+                    "DashboardTitle": "Widespread",
+                    "DashboardBody": "Major system outage",
+                    "EmailSubject": "Major system outage",
+                    "EmailBody": "",
+                    "Details": "Update: S3 have identified the issue and an action plan has been started to fix the issue but no ETA Server System Support update: We are experiencing an authentication issue at the moment, ITI is investigating the issue and we don't have a resolution time frame as yet"
+                },
+                {
+                    "RecID": "94460c30a16e49a6e8f06a4132a3c3526b181139a5",
+                    "ParentRecID": "94460c2cb681d4a41f23f1473eac8d85dd504237f3",
+                    "CreatedDateTime": "14\/01\/2019 2:19:40 PM",
+                    "DashboardTitle": "Widespread",
+                    "DashboardBody": "Major system outage",
+                    "EmailSubject": "Major system outage",
+                    "EmailBody": "",
+                    "Details": "Server System Support update: We are experiencing an authentication issue at the moment, ITI is investigating the issue and we don't have a resolution time frame as yet"
+                }
+            ]
+        },
+        {
+            "RecID": "9444a88c3140dae403c7474ab2aca940c584154374",
+            "CreatedDateTime": "18\/12\/2018 2:54:03 PM",
+            "EmailSubject": "Externally hosted Blackboard Analytics report links restored in course sites",
+            "EmailBody": "The Blackboard Analytics report links are now working normally in L@G course sites.",
+            "DashboardTitle": "Blackboard Analytics",
+            "AnnounceStatus": "Resolved",
+            "StartDate": "18\/12\/2018 10:10:00 AM",
+            "EndDateTime": "18\/12\/2018 2:50:00 PM",
+            "PublishToOutage": "True",
+            "journals": [
+                {
+                    "RecID": "9444a893522670ec036d284528ac7d1a2e43732762",
+                    "ParentRecID": "9444a88c3140dae403c7474ab2aca940c584154374",
+                    "CreatedDateTime": "18\/12\/2018 2:57:05 PM",
+                    "DashboardTitle": "Blackboard Analytics",
+                    "DashboardBody": "Externally hosted Blackboard Analytics report links restored in course sites",
+                    "EmailSubject": "Externally hosted Blackboard Analytics report links restored in course sites",
+                    "EmailBody": "",
+                    "Details": "The Blackboard Analytics report links are now working normally in L@G course sites."
+                }
+            ]
+        },
+        {
+            "RecID": "94449824602a4ae95a63a14a2a86ffb993983c67aa",
+            "CreatedDateTime": "17\/12\/2018 9:02:08 AM",
+            "EmailSubject": "***RESOLVED***Optus mobile outage - Nathan Campus only",
+            "EmailBody": "Message 2: Optus has now repaired and re-instated Nathan Mobile tower. All Optus services are now back in full operation. ---------------------------------------- Message 1: Optus currently has an outage on a mobile tower at the Nathan campus. This seems to be affecting mobile phones intermittently. NCS are investigating the issue with Optus.",
+            "DashboardTitle": "Optus mobiles",
+            "AnnounceStatus": "Resolved",
+            "StartDate": "17\/12\/2018 9:02:08 AM",
+            "EndDateTime": "17\/12\/2018 12:00:00 AM",
+            "PublishToOutage": "True",
+            "journals": [
+                {
+                    "RecID": "94449bbfc59c79788cb0ae4f1185ce8707ce1efd6d",
+                    "ParentRecID": "94449824602a4ae95a63a14a2a86ffb993983c67aa",
+                    "CreatedDateTime": "17\/12\/2018 3:36:06 PM",
+                    "DashboardTitle": "Optus mobiles",
+                    "DashboardBody": "***RESOLVED***Optus mobile outage - Nathan Campus only",
+                    "EmailSubject": "***RESOLVED***Optus mobile outage - Nathan Campus only",
+                    "EmailBody": "",
+                    "Details": "Message 2: Optus has now repaired and re-instated Nathan Mobile tower. All Optus services are now back in full operation. ---------------------------------------- Message 1: Optus currently has an outage on a mobile tower at the Nathan campus. This seems to be affecting mobile phones intermittently. NCS are investigating the issue with Optus."
+                },
+                {
+                    "RecID": "9444982dc7e1797a3de708493a8c2fe9223f47e21e",
+                    "ParentRecID": "94449824602a4ae95a63a14a2a86ffb993983c67aa",
+                    "CreatedDateTime": "17\/12\/2018 9:06:08 AM",
+                    "DashboardTitle": "Optus mobiles",
+                    "DashboardBody": "Optus mobile outage - Nathan Campus only",
+                    "EmailSubject": "Optus mobile outage - Nathan Campus only",
+                    "EmailBody": "",
+                    "Details": "Optus currently has an outage on a mobile tower at the Nathan campus. This seems to be affecting mobile phones intermittently. NCS are investigating the issue with Optus."
+                }
+            ]
+        },
+        {
+            "RecID": "944472fdd71cc8fc15c238430fbe7bd16ed865a38e",
+            "CreatedDateTime": "14\/12\/2018 1:24:18 PM",
+            "EmailSubject": "Access Switch Network Maintenance",
+            "EmailBody": "To remain compliant with Griffiths network security policies, the Network and Collaboration Services team plan to update the access switch configuration in buildings G07, G12 and G14. These updates should not disrupt services, however in the unlikely event a disruption is required, it will be restricted to a maximum of 15 minutes during the upgrade period. Any outage may effect wired and wireless network connections, IP phones, AV\/Video and Building Management connectivity in G07, G12 and G14.",
+            "DashboardTitle": "All access switches located in G07, G12 and G14",
+            "AnnounceStatus": "Resolved",
+            "StartDate": "15\/12\/2018 10:00:00 PM",
+            "EndDateTime": "15\/12\/2018 12:00:00 AM",
+            "PublishToOutage": "True",
+            "journals": [
+                {
+                    "RecID": "9444730c0adb52514aa6e24aa581a954c4b49df536",
+                    "ParentRecID": "944472fdd71cc8fc15c238430fbe7bd16ed865a38e",
+                    "CreatedDateTime": "14\/12\/2018 1:30:21 PM",
+                    "DashboardTitle": "All access switches located in G07, G12 and G14",
+                    "DashboardBody": "Access Switch Network Maintenance",
+                    "EmailSubject": "Access Switch Network Maintenance",
+                    "EmailBody": "",
+                    "Details": "To remain compliant with Griffiths network security policies, the Network and Collaboration Services team plan to update the access switch configuration in buildings G07, G12 and G14. These updates should not disrupt services, however in the unlikely event a disruption is required, it will be restricted to a maximum of 15 minutes during the upgrade period. Any outage may effect wired and wireless network connections, IP phones, AV\/Video and Building Management connectivity in G07, G12 and G14."
+                }
+            ]
+        },
+        {
+            "RecID": "94444af700fa2fb4863c17439e8310be3a52bc45d3",
+            "CreatedDateTime": "11\/12\/2018 12:32:19 PM",
+            "EmailSubject": "N72 Network Maintenance",
+            "EmailBody": "CORRECTION:Dates supplied in previous announcement were incorrect. Please see updated details below. Due to staff availability the following work (as part of the 2018 core network upgrade ) will be completed on Sunday the 16\/12\/18: Description: To remain compliant with Griffiths network securitypolicies,Network and Collaboration Services plan to update the accessswitch configuration in the N72 building.This upgrade should not disrupt services.However, in the unlikely event any disruption is required (to wired and wireless network connections, IPphones, AV\/Video or Building Management connectivity inthe selectbuildings), it will be restricted to a maximum of 15 minutes during the upgrade period. This upgrades will be undertaken after-hours (Sunday 16\/12\/18 8:00am till 12:00 pm) and will be performed remotely. No extra physical access should be required. We do not envisage the work to take up the entire window.?? start time: 16\/12\/2018 8:00 AM End time: 16\/12\/2018 12:00 PM",
+            "DashboardTitle": "N72 Network ",
+            "AnnounceStatus": "Resolved",
+            "StartDate": "16\/12\/2018 8:00:00 AM",
+            "EndDateTime": "16\/12\/2018 12:00:00 AM",
+            "PublishToOutage": "True",
+            "journals": [
+                {
+                    "RecID": "94444b0e6d38901ff30379484e9e029c1da3eb688b",
+                    "ParentRecID": "94444af700fa2fb4863c17439e8310be3a52bc45d3",
+                    "CreatedDateTime": "11\/12\/2018 12:42:18 PM",
+                    "DashboardTitle": "N72 Network ",
+                    "DashboardBody": "N72 Network Maintenance",
+                    "EmailSubject": "N72 Network Maintenance",
+                    "EmailBody": "",
+                    "Details": "CORRECTION:Dates supplied in previous announcement were incorrect. Please see updated details below. Due to staff availability the following work (as part of the 2018 core network upgrade ) will be completed on Sunday the 16\/12\/18: Description: To remain compliant with Griffiths network securitypolicies,Network and Collaboration Services plan to update the accessswitch configuration in the N72 building.This upgrade should not disrupt services.However, in the unlikely event any disruption is required (to wired and wireless network connections, IPphones, AV\/Video or Building Management connectivity inthe selectbuildings), it will be restricted to a maximum of 15 minutes during the upgrade period. This upgrades will be undertaken after-hours (Sunday 16\/12\/18 8:00am till 12:00 pm) and will be performed remotely. No extra physical access should be required. We do not envisage the work to take up the entire window.?? start time: 16\/12\/2018 8:00 AM End time: 16\/12\/2018 12:00 PM"
+                }
+            ]
+        },
+        {
+            "RecID": "94441716fbe43cf83498d74e5b8aec898a01e7e256",
+            "CreatedDateTime": "7\/12\/2018 2:06:10 PM",
+            "EmailSubject": "Access Switch Network Maintenance",
+            "EmailBody": "To remain compliant with Griffiths network security policies, the Network and Collaboration Services team plan to update the access switch configuration in buildings G07, G12 and G14. These updates should not disrupt services, however in the unlikely event a disruption is required, it will be restricted to a maximum of 15 minutes during the upgrade period. Any outage may effect wired and wireless network connections, IP phones, AV\/Video and Building Management connectivity in G07, G12 and G14.",
+            "DashboardTitle": "All access switches in buildings G07,G12 and G14",
+            "AnnounceStatus": "Resolved",
+            "StartDate": "15\/12\/2018 10:00:00 PM",
+            "EndDateTime": "16\/12\/2018 12:00:00 AM",
+            "PublishToOutage": "True",
+            "journals": [
+                {
+                    "RecID": "94441722cf470228061ccd4e5e8c1431cc05769d13",
+                    "ParentRecID": "94441716fbe43cf83498d74e5b8aec898a01e7e256",
+                    "CreatedDateTime": "7\/12\/2018 2:11:13 PM",
+                    "DashboardTitle": "All access switches in buildings G07,G12 and G14",
+                    "DashboardBody": "Access Switch Network Maintenance",
+                    "EmailSubject": "Access Switch Network Maintenance",
+                    "EmailBody": "",
+                    "Details": "To remain compliant with Griffiths network security policies, the Network and Collaboration Services team plan to update the access switch configuration in buildings G07, G12 and G14. These updates should not disrupt services, however in the unlikely event a disruption is required, it will be restricted to a maximum of 15 minutes during the upgrade period. Any outage may effect wired and wireless network connections, IP phones, AV\/Video and Building Management connectivity in G07, G12 and G14."
+                }
+            ]
+        }
+    ]
+}
